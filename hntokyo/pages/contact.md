@@ -7,6 +7,7 @@
 .. link: 
 .. description: 
 .. type: text
+.. hidetitle: true
 -->
 
 If you would like to contact the HN Tokyo Community organizers, please send an email to <a href="mailto:pauloswald@gmail.com">Paul Oswald</a>
