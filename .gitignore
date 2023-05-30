@@ -1,0 +1,7 @@
+env
+__pycache__
+.DS_Store
+*.db
+
+hntokyo/output
+hntokyo/cache
