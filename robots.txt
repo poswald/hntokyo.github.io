@@ -1,0 +1,4 @@
+Sitemap: https://hntokyo.io/sitemapindex.xml
+
+User-Agent: *
+Host: hntokyo.io

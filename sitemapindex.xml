@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <sitemap>
+  <loc>https://hntokyo.io/en/galleries/rss.xml</loc>
+  <lastmod>2023-05-30T06:00:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://hntokyo.io/en/rss.xml</loc>
+  <lastmod>2023-05-30T03:07:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://hntokyo.io/ja/galleries/rss.xml</loc>
+  <lastmod>2023-05-30T06:00:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://hntokyo.io/ja/rss.xml</loc>
+  <lastmod>2023-05-30T03:07:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://hntokyo.io/sitemap.xml</loc>
+  <lastmod>2023-05-30T06:00:00Z</lastmod>
+ </sitemap>
+</sitemapindex>
