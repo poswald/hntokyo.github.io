@@ -21,6 +21,36 @@
 % if page_links:
     ${pagination.page_navigation(current_page, page_links, prevlink, nextlink, prev_next_links_reversed)}
 % endif
+
+<div class="pageindex">
+<ul>
+    %for url, text in navigation_links[lang]:
+    % if isinstance(url, tuple):
+        <%!
+        from nikola.utils import slugify
+        %>
+
+        <li>
+            <a href="${url}">${text}</a>
+        </li>
+        %for sublink, subtext in url:
+            <li>
+                <a href="${sublink}" class="child">${subtext}</a>
+            </li>
+        %endfor
+    % else:
+        % if rel_link(permalink, url) == "#":
+        <li>
+        % else:
+        <li>
+        % endif
+            <a href="${url}">${text}</a>
+        </li>
+    % endif
+%endfor
+</ul>
+</div>
+
 <div class="postindex">
 % for post in posts:
 
