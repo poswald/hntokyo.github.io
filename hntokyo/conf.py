@@ -100,7 +100,7 @@ DEFAULT_LANG = "en"
 # The format is {"translationcode" : "path/to/translation" }
 # the path will be used as a prefix for the generated pages location
 TRANSLATIONS = {
-    DEFAULT_LANG: "",
+    DEFAULT_LANG: "./en",
     "ja": "./ja",
 }
 
@@ -141,8 +141,8 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/", "HN Tokyo"),
-        ("/pages/contact/", "Contact"),
+        ("/en/", "HN Tokyo"),
+        ("/en/pages/contact/", "Contact"),
         # ("/archive.html", "Archive"),
         # ("/categories/", "Tags"),
         # ("/rss.xml", "RSS feed"),
@@ -669,7 +669,9 @@ ATOM_FILENAME_BASE = "feed"
 # relative URL.
 #
 # If you don't need any of these, just set to []
-REDIRECTIONS = []
+REDIRECTIONS = [
+    ("/", "/en/"),
+]
 
 # Presets of commands to execute to deploy. Can be anything, for
 # example, you may use rsync:
