@@ -312,6 +312,7 @@ TIMEZONE = "Asia/Tokyo"
 # Default is:
 # LISTINGS_FOLDERS = {'listings': 'listings'}
 # Which means process listings from 'listings' into 'output/listings'
+LISTINGS_FOLDERS = { }
 
 # A mapping of languages to file-extensions that represent that language.
 # Feel free to add or delete extensions to any list, but don't add any new
