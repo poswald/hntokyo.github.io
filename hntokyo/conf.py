@@ -142,6 +142,8 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/en/", "HN Tokyo"),
+        ("/en/pages/community/", "Community"),
+        ("/en/pages/events/", "Events"),
         ("/en/pages/contact/", "Contact"),
         # ("/archive.html", "Archive"),
         # ("/categories/", "Tags"),
@@ -150,6 +152,8 @@ NAVIGATION_LINKS = {
 
     "ja": (
         ("/ja/", "HN Tokyo"),
+        ("/ja/pages/community/", "コミュニティ"),
+        ("/ja/pages/events/", "イベント"),
         ("/ja/pages/contact/", "コンタクト"),
         # ("/ja/archive.html", "過去記事一覧"),
         # ("/ja/categories/", "タグ"),
