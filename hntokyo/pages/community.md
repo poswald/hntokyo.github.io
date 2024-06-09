@@ -14,7 +14,7 @@
 
 Join thousands of other hackers and entrepreneurs in the HN Tokyo Slack Community
 
-[HN Tokyo Slack Invite](https://join.slack.com/t/hntokyo/shared_invite/zt-281ixbi9u-_Td493kL331nKwjjjAM7Ng)
+[HN Tokyo Slack Invite](https://join.slack.com/t/hntokyo/shared_invite/zt-2ka76pu1i-wCqNrIrWYobDjsXVn3JQLA)
 
 
 ## Rules
