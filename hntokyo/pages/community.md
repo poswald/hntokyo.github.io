@@ -27,8 +27,10 @@ Please read and abide by the following rules when joining our community
 - Support others in the community
 - Give others the benefit of the doubt and assume no ill intentions
 
+HN Tokyo is a place to help others build great things, not a place to debate the latest tech controversies.
+
 ### Recruiting
-Sorry, **we do not allow recruiters** to join our community. If you work in the recruiting industry but are thinking of a career change, or you are launching a startup and would like to join the HN Tokyo community in a _personal_ capacity, please email pauloswald@gmail.com and describe your situation.
+Sorry, **we do not allow recruiters** to join our community. If you work in the recruiting industry but are thinking of a career change, or you are launching a startup and would like to join the HN Tokyo community in a _personal_ capacity, please email `pauloswald@gmail.com` and describe your situation.
 
 Internal HR recruiting staff members are allowed to join. Community members are allowed to post about open positions at the companies they work for.
 
@@ -36,5 +38,5 @@ Any community member posting information about jobs that they are being paid to 
 
 ### Reporting Abuse
 
-If you have any issues, please inform @poswald within the slack community or by email.
+If you have any issues, please inform @poswald within the slack community or by email at `pauloswald@gmail.com`.
 
